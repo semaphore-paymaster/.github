@@ -17,17 +17,22 @@ This project aims to integrate Semaphore with an ERC4337 compliant Paymaster to 
 
 ### Demonstration Video
 
-<div style="position: relative; padding-bottom: 64.5933014354067%; height: 0;"><iframe src="https://www.loom.com/embed/67aa3d4d284c4e6294f00d6d852b4ad1?sid=70319082-cb91-4922-9d96-62aa38a46d16" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[Click here to view](https://www.loom.com/embed/67aa3d4d284c4e6294f00d6d852b4ad1?sid=70319082-cb91-4922-9d96-62aa38a46d16)
+
+### Slides
+
+[Click here to view](https://www.canva.com/design/DAGKQbO5M5k/blwWhc0b3P41vgzrD93CWw/view?utm_content=DAGKQbO5M5k&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 
 ### Repository References
 
-- **.github:** [Link to Repository](https://github.com/semaphore-paymaster/.github)
-- **maci-deployer:** [Link to Repository](https://github.com/semaphore-paymaster/maci-deployer)
-- **frontend:** [Link to Repository](https://github.com/semaphore-paymaster/frontend)
-- **wax:** [Link to Repository](https://github.com/semaphore-paymaster/wax)
-- **maci-paymaster-example:** [Link to Repository](https://github.com/semaphore-paymaster/maci-paymaster-example)
-- **semaphore:** [Link to Repository](https://github.com/semaphore-paymaster/semaphore)
-- **mock-poap:** [Link to Repository](https://github.com/semaphore-paymaster/mock-poap)
+- [Docs](https://github.com/semaphore-paymaster/.github)
+- [Front End](https://github.com/semaphore-paymaster/frontend)
+- [Maci Deployer](https://github.com/semaphore-paymaster/maci-deployer)
+- [Wax](https://github.com/semaphore-paymaster/wax)
+- [Maci Paymaster Example](https://github.com/semaphore-paymaster/maci-paymaster-example)
+- [Semaphore](https://github.com/semaphore-paymaster/semaphore)
+- [Mock Poap](https://github.com/semaphore-paymaster/mock-poap)
 
 ### Usage Instructions
 
